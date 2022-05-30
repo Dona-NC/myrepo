@@ -156,8 +156,13 @@ hello world
 ###################################################################################################################################
 
 
+To change remote origin :
+46.)git remote set-url origin git@github.com:USERNAME/REPOSITORY(url).git
 
 
+47.)git remote show origin
+
+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
 
 
 
